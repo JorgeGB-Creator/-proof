@@ -1,7 +1,7 @@
 import random
 import string
-
-# Función para generar contraseñas aleatorias con diferentes opciones de caracteres
+#
+# Función para generar contraseñas aleatorias con diferentes opciones de caracteres.
 
 
 def generar_contraseña(tamaño=12, mayusculas=True, numeros=True, especiales=True):
